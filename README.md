@@ -1,4 +1,3 @@
 ## Olá! seja bem-vindo ao meu perfil. 👋
 
-**Atualmente focado em:**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=radical)
