@@ -17,28 +17,28 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 ---
 
 ## 🛠️ Tecnologias que uso
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" style="border-radius: 15px; background-color: #3C873A; padding: 8px;" title="Node.js"/>
 
   <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" style="border-radius: 15px; background-color: #3178C6; padding: 8px;" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" style="border-radius: 15px; background-color: #3178C6; padding: 8px;" title="TypeScript"/>
 
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="border-radius: 15px; background-color: #20232a; padding: 8px;" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="border-radius: 15px; background-color: #20232a; padding: 8px;" title="React"/>
 
   <!-- React Native -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="border-radius: 15px; background-color: #121212; padding: 8px;" title="React Native"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="border-radius: 15px; background-color: #121212; padding: 8px;" title="React Native"/>
+https://github.com/KallebEbenezer/KallebEbenezer/edit/main/README.md
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="border-radius: 15px; background-color: #F05032; padding: 8px;" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" style="border-radius: 15px; background-color: #F05032; padding: 8px;" title="Git"/>
 
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="border-radius: 15px; background-color: #00758F; padding: 8px;" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" style="border-radius: 15px; background-color: #00758F; padding: 8px;" title="MySQL"/>
 
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" style="border-radius: 15px; background-color: #336791; padding: 8px;" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="border-radius: 15px; background-color: #336791; padding: 8px;" title="PostgreSQL"/>
 
   <!-- Vitest (customizado com fundo) -->
   <img src="https://vitest.dev/logo.svg" width="60" style="border-radius: 15px; background-color: #6E9F18; padding: 8px;" title="Vitest"/>
