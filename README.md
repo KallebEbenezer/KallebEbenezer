@@ -17,20 +17,11 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 ---
 
 ## 🛠️ Tecnologias que uso
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-0A66C2?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="border-radius: 12px; background-color: #0A66C2; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="border-radius: 12px; background-color: #F7DF1E; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius: 12px; background-color: #20232a; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="border-radius: 12px; background-color: #E34F26; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="border-radius: 12px; background-color: #1572B6; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" style="border-radius: 12px; background-color: #003B57; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="border-radius: 12px; background-color: #000000; padding: 6px;" />
 
 </div>
-
 ---
 
 ## 📊 Estatísticas do GitHub
