@@ -17,7 +17,10 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 ---
 
 ## 🛠️ Tecnologias que uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=blueberry)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius: 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</div>
+
 
 ---
 
