@@ -17,9 +17,23 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 ---
 
 ## 🛠️ Tecnologias que uso
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius: 12px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="border-radius: 12px; background-color: #3C873A; padding: 6px;" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="border-radius: 12px; background-color: #3178C6; padding: 6px;" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius: 12px; background-color: #20232a; padding: 6px;" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius: 12px; background-color: #20232a; padding: 6px;" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="border-radius: 12px; background-color: #F05032; padding: 6px;" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="border-radius: 12px; background-color: #00758F; padding: 6px;" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="border-radius: 12px; background-color: #336791; padding: 6px;" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="border-radius: 12px; background-color: #0db7ed; padding: 6px;" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="border-radius: 12px; background-color: #F7DF1E; padding: 6px;" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-plain.svg" width="50" style="border-radius: 12px; background-color: #6E9F18; padding: 6px;" title="Vitest"/>
+  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" width="50" style="border-radius: 12px; background-color: #1E1E1E; padding: 6px;" title="Drizzle ORM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" width="50" style="border-radius: 12px; background-color: #E83524; padding: 6px;" title="TypeORM"/>
+
 </div>
+
 
 
 ---
