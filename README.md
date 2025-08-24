@@ -46,7 +46,6 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 </div>
 
 ---
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=radical)
 
