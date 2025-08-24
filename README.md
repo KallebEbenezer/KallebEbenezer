@@ -1,6 +1,6 @@
 <!-- Banner opcional -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Seja bem-vindo,%20Dev!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Bem-vindo,%20Dev!&fontSize=40&fontColor=ffffff" />
 </div>
 
 ## Sobre mim
