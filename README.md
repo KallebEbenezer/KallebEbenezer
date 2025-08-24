@@ -1,16 +1,17 @@
-## Bem-vindo ao meu perfil no GitHub!
+## 🖤 Bem-vindo ao meu perfil no GitHub!
+
 Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluções que fazem a diferença. Curioso por natureza, estou sempre explorando novas ferramentas, linguagens e frameworks.
 
 ---
 
-## 🎓 03 - Perfil Acadêmico
+## 🎓 Perfil Acadêmico
 
 - Ensino Médio Técnico em **Análise e Desenvolvimento de Sistemas (ADS)**  
 - Formação com foco em lógica, algoritmos, banco de dados, desenvolvimento mobile e web.
 
 ---
 
-## 🛠️ 04 - Tecnologias que uso
+## 🛠️ Tecnologias que uso
 
 <div align="left">
 
@@ -27,7 +28,7 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 
 ---
 
-## 🌐 05 - Também estou em:
+## 🌐 Também estou em:
 
 <div align="left">
 
@@ -46,8 +47,15 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 </div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=radical)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=dark&hide_border=true" />
+
+</div>
 
 ---
 
