@@ -28,7 +28,7 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="border-radius: 15px; background-color: #20232a; padding: 8px;" title="React"/>
 
-  <!-- React Native (usando React como base) -->
+  <!-- React Native -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="border-radius: 15px; background-color: #121212; padding: 8px;" title="React Native"/>
 
   <!-- Git -->
@@ -49,13 +49,14 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" style="border-radius: 15px; background-color: #F7DF1E; padding: 8px;" title="JavaScript"/>
 
-  <!-- Drizzle ORM (custom SVG com fundo escuro) -->
-  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" width="60" style="border-radius: 15px; background-color: #1E1E1E; padding: 8px;" title="Drizzle ORM"/>
+  <!-- Drizzle ORM (logo oficial com fundo escuro) -->
+  <img src="https://github.com/drizzle-team/drizzle-orm/raw/main/misc/readme/logo-github-sq-dark.svg" width="60" style="border-radius: 15px; background-color: #1E1E1E; padding: 8px;" title="Drizzle ORM"/>
 
-  <!-- TypeORM (customizado) -->
-  <img src="https://typeorm.io/images/logo.svg" width="60" style="border-radius: 15px; background-color: #E83524; padding: 8px;" title="TypeORM"/>
+  <!-- TypeORM (ícone vetorizado com fundo vermelho) -->
+  <img src="https://logowik.com/content/uploads/images/typeorm-icon-logo71440.logowik.com.webp" width="60" style="border-radius: 15px; background-color: #E83524; padding: 8px;" title="TypeORM"/>
 
 </div>
+
 
 
 
