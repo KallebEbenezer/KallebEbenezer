@@ -1,9 +1,9 @@
 <!-- Banner opcional -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Bem-vindo,%20Lira!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Seja bem-vindo,%20Dev!&fontSize=40&fontColor=ffffff" />
 </div>
 
-## 🖤 Sobre mim
+## Sobre mim
 
 Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluções que fazem a diferença. Curioso por natureza, estou sempre explorando novas ferramentas, linguagens e frameworks.
 
@@ -12,7 +12,7 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 ## 🎓 Formação Acadêmica
 
 - Ensino Médio Técnico em **Análise e Desenvolvimento de Sistemas (ADS)**  
-- Foco em lógica, algoritmos, banco de dados, desenvolvimento mobile e web.
+- Foco em lógica, algoritmos, pensamento computacional, desenvolvimento mobile e web.
 
 ---
 
