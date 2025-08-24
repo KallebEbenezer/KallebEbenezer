@@ -17,11 +17,8 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 ---
 
 ## 🛠️ Tecnologias que uso
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=blueberry)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="border-radius: 12px; background-color: #0A66C2; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="border-radius: 12px; background-color: #F7DF1E; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius: 12px; background-color: #20232a; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="border-radius: 12px; background-color: #E34F26; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="border-radius: 12px; background-color: #1572B6; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" style="border-radius: 12px; background-color: #003B57; padding: 6px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="border-radius: 12px; background-color: #000000; padding: 6px;" />
-
-</div>
 ---
 
 ## 📊 Estatísticas do GitHub
