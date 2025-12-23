@@ -60,12 +60,11 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
-
 ---
 
 Feito com 💻 e ☕ por **Ebenezer**
