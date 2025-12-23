@@ -59,15 +59,15 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebenezerxzz&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KallebEbenezer&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebenezerxzz&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KallebEbenezer&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebenezerxzz&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KallebEbenezer&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebenezerxzz&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KallebEbenezer&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ebenezerxzz&theme=radical&utcOffset=-3"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KallebEbenezer&theme=radical&utcOffset=-3"/>
 
 </div>
 
