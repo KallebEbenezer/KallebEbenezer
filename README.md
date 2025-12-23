@@ -55,16 +55,21 @@ Sou um entusiasta da tecnologia, apaixonado por programação e por criar soluç
 </div>
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ebenezerxzz&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebenezerxzz&theme=radical"/>
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ebenezerxzz&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebenezerxzz&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebenezerxzz&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebenezerxzz&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ebenezerxzz&theme=radical&utcOffset=-3"/>
 
 </div>
----
+
 
 Feito com 💻 e ☕ por **Ebenezer**
